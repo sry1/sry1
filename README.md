@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sry1.sry1)
-
 I am a DevOps engineer and tech enthusiast!
 
 As a DevOps engineer, I thrive on the fusion of technology, collaboration, and innovation. With my meticulous nature and unwavering passion for streamlining processes, I find joy in creating systems that revolutionize how organizations deliver software and manage their infrastructure.
@@ -36,8 +34,8 @@ No activity tracked
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sry1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sry1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sry1&theme=react&line_height=40&hide=css=true&&count_private=true&include_all_commits=true" />
+<a href=""> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sry1&theme=react&line_height=40&hide=css"/> </a>
 </p>
 
 
