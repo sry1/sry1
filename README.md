@@ -1,9 +1,5 @@
 ### Hi there, I am Roy 👋
 
-**sry1/sry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on automating deployment pipelines and infrastructure provisioning.
 - 🌱 I’m currently learning about containerization technologies like Docker and container orchestration tools like Kubernetes.
 - 👯 I’m looking to collaborate on open-source projects related to DevOps tools and practices.
