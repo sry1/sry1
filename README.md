@@ -17,25 +17,6 @@ As a DevOps engineer, I thrive on the fusion of technology, collaboration, and i
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning about containerization technologies like Docker and container orchestration tools;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I’m looking for help with optimizing and improving the performance of application deployments and monitoring;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: steve.roy99@yahoo.com;
-
-</br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sry1&theme=react&line_height=40&hide=css=true&&count_private=true&include_all_commits=true" />
-<a href=""> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sry1&theme=react&line_height=40&hide=css"/> </a>
-</p>
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21"  />&nbsp;&nbsp; Please contact me <a href="mailto:steve.roy99@yahoo.com">here</a>
 
 
